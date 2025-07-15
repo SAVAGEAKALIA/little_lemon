@@ -86,15 +86,15 @@ export const footerLinks = [
     links: [
       {
         name: "Address",
-        link: "https://www.linkedin.com/in/joshua-oseghale",
+        link: "https://www.linkedin.com/in/saviourakalia",
       },
       {
         name: "Phone Number",
-        link: "https://www.linkedin.com/in/joshua-oseghale",
+        link: "https://www.linkedin.com/in/saviourakalia",
       },
       {
         name: "Email",
-        link: "https://www.linkedin.com/in/joshua-oseghale",
+        link: "akaliasaviour@gmail.com",
       },
     ],
   },
@@ -103,15 +103,15 @@ export const footerLinks = [
     links: [
       {
         name: "Twitter|X",
-        link: "https://www.twitter.com/Code_Chart",
+        link: "https://www.twitter.com/Daddy_savy",
       },
       {
         name: "Linkdin",
-        link: "https://www.linkedin.com/in/joshua-oseghale",
+        link: "https://www.linkedin.com/in/saviourakalia",
       },
       {
           name: "Facebook",
-          link: "https://www.facebook.com/aigbokhaebholo.joshua",
+          link: "https://www.facebook.com/saviour",
       }
     ],
   },
